@@ -19,7 +19,7 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author RavenPC
+ * @author kevin
  */
 public class Server extends javax.swing.JFrame {
 
